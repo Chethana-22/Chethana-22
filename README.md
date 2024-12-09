@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm a DevOps engineer with a passion for streamlin
 
 ### 🌐 Portfolio Highlights
 
-- **[CI/CD Pipeline Project](link-to-project)**: A full-fledged CI/CD pipeline setup using GitHub Actions, Docker, and Kubernetes.
-- **[Serverless Image Processing System](link-to-project)**: AWS-based serverless image processing architecture for real-time processing.
-- **[Secure Deployment Automation](link-to-project)**: Automated secure deployment workflows on cloud infrastructure.
+- **[AWS VPC 3-Tier Architecture using Terraform](https://github.com/Chethana-22/Terraform_AWS_VPC)**: A 3-tier AWS architecture with public and private subnets across two Availability Zones using Terraform for enhanced security and high availability.
+- **[Serverless-Image-metadata-Extractor using AWS Graviton](https://github.com/Chethana-22/Serverless-Image-metadata-Extractor)**: A serverless application using AWS Lambda on Graviton to automatically extract image metadata from S3 uploads, ensuring scalability.
+- **[Scalable CRUD Application](https://github.com/Chethana-22/NodeJS_CRUD_Kubernetes)**: CRUD application with Node.js and MongoDB, using Docker for containerization and Kubernetes for orchestrated scaling and high availability.
 
-Explore more of my projects [here](link-to-projects-page)!
+<!-- Explore more of my projects [here](link-to-projects-page)! -->
 
 ---
 
