@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a DevOps engineer with a passion for streamlin
 ### 🌐 Portfolio Highlights
 
 - **[AWS VPC 3-Tier Architecture using Terraform](https://github.com/Chethana-22/Terraform_AWS_VPC)**: A 3-tier AWS architecture with public and private subnets across two Availability Zones using Terraform for enhanced security and high availability.
-- **[Serverless-Image-metadata-Extractor using AWS Graviton](https://github.com/Chethana-22/Serverless-Image-metadata-Extractor)**: A serverless application using AWS Lambda on Graviton to automatically extract image metadata from S3 uploads, ensuring scalability.
+- **[Terraform IaC DevOps using AWS CodePipeline](https://github.com/Chethana-22/Terraform_AWS_CodePipleline)**: An automated infrastructure deployment pipeline using **AWS CodePipeline**, **Terraform**, and **AWS CodeBuild** to enable seamless IaC provisioning. The project also integrates centralized monitoring and logging with **AWS CloudWatch**.
 - **[Scalable CRUD Application](https://github.com/Chethana-22/NodeJS_CRUD_Kubernetes)**: CRUD application with Node.js and MongoDB, using Docker for containerization and Kubernetes for orchestrated scaling and high availability.
 
 <!-- Explore more of my projects [here](link-to-projects-page)! -->
