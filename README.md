@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a DevOps engineer with a passion for streamlin
 - **[Terraform IaC DevOps using AWS CodePipeline](https://github.com/Chethana-22/Terraform_AWS_CodePipleline)**: An automated infrastructure deployment pipeline using **AWS CodePipeline**, **Terraform**, and **AWS CodeBuild** to enable seamless IaC provisioning. The project also integrates centralized monitoring and logging with **AWS CloudWatch**.
 - **[Scalable CRUD Application](https://github.com/Chethana-22/NodeJS_CRUD_Kubernetes)**: CRUD application with Node.js and MongoDB, using Docker for containerization and Kubernetes for orchestrated scaling and high availability.
 
-<!-- Explore more of my projects [here](link-to-projects-page)! -->
+Explore more of my projects [here](https://west-slayer-c57.notion.site/Cloud-DevOps-Portfolio-Projects-12f8c95c30ef8017bd8af4fa5113aa19)!
 
 ---
 
